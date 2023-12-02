@@ -6,7 +6,7 @@
 This article, authored by Ali Adabi, delves into the scientific intricacies of comparing Artificial Intelligence (AI), particularly advanced models like GPT-4, with human intelligence. Grounded in cognitive science, AI research, and data from various studies, it offers a comprehensive perspective on the fundamental differences and potential parallels between AI and human cognition.
 
 #### Introduction
-The comparison of AI's "intelligence" with human intelligence has been a subject of extensive debate and research. Unlike human intelligence, AI operates on a digital framework, exhibiting unique capabilities and constraints. Authored by Ali Adabi, this comparative study aims to examine these differences using scientific data and research, offering a nuanced perspective on AI and human cognitive capabilities.
+The comparison of AI's "intelligence" with human intelligence has been a subject of extensive debate and research. Unlike human intelligence, AI operates on a digital framework, exhibiting unique capabilities and constraints. This comparative study aims to examine these differences using scientific data and research, offering a nuanced perspective on AI and human cognitive capabilities.
 
 #### Comparative Analysis of Intelligence
 ##### Fundamental Differences: AI vs. Human
