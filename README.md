@@ -1,4 +1,4 @@
-### Article: A Scientific Inquiry into AI and Human Intelligence Comparison
+### A Scientific Inquiry into AI and Human Intelligence Comparison
 
 #### Author: Ali Adabi PhD
 
