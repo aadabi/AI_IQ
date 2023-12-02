@@ -3,7 +3,7 @@
 #### Author: Ali Adabi PhD
 
 #### Abstract
-This article, authored by Ali Adabi, delves into the scientific intricacies of comparing Artificial Intelligence (AI), particularly advanced models like GPT-4, with human intelligence. Grounded in cognitive science, AI research, and data from various studies, it offers a comprehensive perspective on the fundamental differences and potential parallels between AI and human cognition.
+This article delves into the scientific intricacies of comparing Artificial Intelligence (AI), particularly advanced models like GPT-4, with human intelligence. Grounded in cognitive science, AI research, and data from various studies, it offers a comprehensive perspective on the fundamental differences and potential parallels between AI and human cognition.
 
 #### Introduction
 The comparison of AI's "intelligence" with human intelligence has been a subject of extensive debate and research. Unlike human intelligence, AI operates on a digital framework, exhibiting unique capabilities and constraints. This comparative study aims to examine these differences using scientific data and research, offering a nuanced perspective on AI and human cognitive capabilities.
@@ -13,13 +13,13 @@ The comparison of AI's "intelligence" with human intelligence has been a subject
 AI and human intelligence differ fundamentally in their operational substrates and cognitive abilities. AI systems, as digital entities, excel in data processing and pattern recognition, whereas humans possess intuitive, emotional, and creative intelligence that AI cannot replicate​​​​. Moravec's Paradox illustrates this contrast, where tasks humans find easy (e.g., facial recognition) are complex for AI and vice versa​​.
 
 ##### Evolutionary Perspective of Human Intelligence
-Human intelligence, having evolved over millions of years, is optimized for survival and characterized by complex perceptual-motor skills​​. In contrast, AI, as analyzed by Ali Adabi, lacks this evolutionary background, being programmed for specific tasks without a broad survival-oriented context.
+Human intelligence, having evolved over millions of years, is optimized for survival and characterized by complex perceptual-motor skills​​. In contrast, AI, as analyzed by the author, lacks this evolutionary background, being programmed for specific tasks without a broad survival-oriented context.
 
 ##### Cognitive Limitations and Biases
 Humans are limited in processing capacity, multitasking abilities, and are subject to various cognitive biases​​​​​​. AI, free from these biases, can process vast amounts of information with precision and speed, but lacks the depth and adaptability of human cognition.
 
 #### Methodology for Comparative Assessment
-In this approach, conceptualized by Ali Adabi, we use a scale of 1 to 10,000 to quantify various aspects of intelligence, acknowledging the diversity in AI and human intelligence.
+In this approach, conceptualized by the author, we use a scale of 1 to 10,000 to quantify various aspects of intelligence, acknowledging the diversity in AI and human intelligence.
 
 ##### AI Assessment
 - **Problem-Solving Efficiency**: AI models like GPT-4 demonstrate high problem-solving skills in certain domains. Based on data processing capabilities, the score is estimated at 8000.
@@ -30,10 +30,10 @@ In this approach, conceptualized by Ali Adabi, we use a scale of 1 to 10,000 to 
 Einstein serves as a benchmark for exceptional human intelligence. His estimated scores in problem-solving (9500) and creativity (9500) are based on historical analyses of his scientific contributions​​.
 
 #### Normalization and Quantitative Analysis
-In this section, conceptualized by Ali Adabi, normalizing the AI's score to a human IQ scale where Einstein's IQ is 160, we obtain an AI "IQ" of approximately 86.2. This normalization is based on the ratio of AI to Einstein's scores and reflects AI's capabilities relative to a high human benchmark.
+In this section, conceptualized by the author, normalizing the AI's score to a human IQ scale where Einstein's IQ is 160, we obtain an AI "IQ" of approximately 86.2. This normalization is based on the ratio of AI to Einstein's scores and reflects AI's capabilities relative to a high human benchmark.
 
 #### Conclusion
-This comparative study, authored by Ali Adabi, provides a scientific perspective on the differences and potential similarities between AI and human intelligence. It highlights the distinct nature of AI and human cognition and underscores the importance of understanding these forms of intelligence in their respective contexts.
+This comparative study, authored by the author, provides a scientific perspective on the differences and potential similarities between AI and human intelligence. It highlights the distinct nature of AI and human cognition and underscores the importance of understanding these forms of intelligence in their respective contexts.
 
 #### References
 
